@@ -1,0 +1,5 @@
+# MSc-Project
+Car Number Plate Reading System Using Linear Regression
+In past years with the increase of population, it was getting very difficult to maintain road safety due to an increase in the number of cars on road. Drivers doing violations were very difficult to get caught by manpower. It is taking a lot of time to do entries for each vehicle doing violation. 
+An automatic System was required which can detect and read car number plates to resolve the issue and maintain road rules and regulations. So using computer vision technology different companies developed Automatic Number Plate Recognition (ANPR) systems that use either third-party libraries or their own developed models to detect and read car number plates so there will be no need for manpower. 
+The purpose of this project is to develop a different approach to detecting a car number plate. By creating and training a machine learning model which can help us find car number plate region so that we can read it using a third-party library.
